@@ -1,5 +1,6 @@
 # Screen Capture Community Group
 * [Community page](https://www.w3.org/community/sccg/)
+* [General discussion](https://github.com/screen-share/discuss/issues)
 * [Meeting records](https://github.com/screen-share/meetings)
 * Repositories
   * Captured Mouse Events: [repo](https://github.com/screen-share/captured-mouse-events), [spec](https://screen-share.github.io/captured-mouse-events/)
